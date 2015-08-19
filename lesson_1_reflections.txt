@@ -1,0 +1,50 @@
+﻿Using History for Efficiency
+
+How did viewing a diff between two version of a 
+file help you see the bug that was introduced?
+
+diff will show the what part of the file that is 
+not the same so I can easily see what change.
+=======================================================
+How could having easy access to the entire history of a 
+file make you a more efficient programmer in the long term?
+
+If I can access all the file history I can look in to 
+history and see what I create and can compare file 
+to see what did I do wrong.
+=======================================================
+What do you think are the pros and cons of manually 
+choosing when to create a commit, like you do in Git, 
+vs having versions automatically saved, like Google Docs does?
+
+Pros I make each commit make sense by not have too many commit it
+easy to look back in it.
+Cons Sometime user might forgot to make a commit.
+=======================================================
+Why do you think some version control systems, 
+like Git, allow saving multiple files in one commit, 
+while others, like Google Docs, treat each file separately?
+
+Because it will make the code function properly. For the code to work
+if the file are connect it need to save together.
+=======================================================
+How can you use the commands git log and git diff 
+to view the history of files?
+
+First use git log to find the commit id for the one that we want 
+and then use git diff to compare the first commit and the one 
+that we want.
+=======================================================
+How might using version control make you more confident 
+to make changes that could break something?
+
+If I use version control I don't have to worry about that 
+the code will break because I can go back before I make change
+very easy.
+=======================================================
+Now that you have your workspace set up, 
+what do you want to try using Git for?
+
+I want to use it to organize my code.
+=======================================================
+
