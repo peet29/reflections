@@ -1,0 +1,12 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It create a new repository of that folder.
+Because if I do that I can go back to it any time.
+=======================================================
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+It a place to keep all to data wait to commit.
+It not a working directory because it do't have a real directory.
+=======================================================
+
