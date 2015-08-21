@@ -24,3 +24,9 @@ When I want to make a change to a file but not yet ready to make a update to the
 How do the diagrams help you visualize the branch structure?
 
 It help me see what a branch tree look like.
+=======================================================
+What is the result of merging two branches together? 
+Why do we represent it in the diagram the way we do?
+
+At first it don't merge but I read the forum and did find a way to fix it.
+Because it an easy way to show how commit are like together.
