@@ -3,10 +3,24 @@ What happens when you initialize a repository? Why do you need to do it?
 It create a new repository of that folder.
 Because if I do that I can go back to it any time.
 =======================================================
-How is the staging area different from the working directory and the repository? 
+How is the staging area different from the working 
+directory and the repository? 
 What value do you think it offers?
 
 It a place to keep all to data wait to commit.
 It not a working directory because it do't have a real directory.
 =======================================================
+How can you use the staging area to make sure 
+you have one commit per logical change?
 
+By add a file that change to keep at staging area and look that is a file 
+that I want to commit or not.
+=======================================================
+What are some situations when branches would be helpful 
+in keeping your history organized? How would branches help?
+
+When I want to make a change to a file but not yet ready to make a update to the real one. Branches help by make it easy to remember.
+=======================================================
+How do the diagrams help you visualize the branch structure?
+
+It help me see what a branch tree look like.
