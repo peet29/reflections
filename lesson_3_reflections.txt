@@ -20,3 +20,10 @@ same as original. I can clones someone else repository but I can't make
 change to it if they don't want to.
 
 Branches is just an id for commit.
+=======================================================
+What is the benefit of having a copy of the last 
+known state of the remote stored locally?
+
+I can work offline  and don't have to worry that I don't have INTERNET.   
+=======================================================
+
