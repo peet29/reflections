@@ -26,4 +26,14 @@ known state of the remote stored locally?
 
 I can work offline  and don't have to worry that I don't have INTERNET.   
 =======================================================
+How would you collaborate without using Git or GitHub? 
+What would be easier, and what would be harder?
+
+If I don't use Git I will use google drive and make a change by myself.
+
+The Easy
+I can make a change and send it to other for suggest the change.
+
+The Harder 
+I need to create a pull requests I might seen a hard to me.
 
