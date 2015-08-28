@@ -36,4 +36,14 @@ I can make a change and send it to other for suggest the change.
 
 The Harder 
 I need to create a pull requests I might seen a hard to me.
+=======================================================
+When would you want to make changes in a separate branch rather 
+than directly in master?
+
+When I work on the new feature and don't want it on the master branch yet.
+
+ What benefits does each approach have?
+If I make change in the master branch it kind to work to but then
+the other can't they need to wait for me but if I work on 
+separate branch they can continue to work. 
 
